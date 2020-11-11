@@ -1,2 +1,5 @@
 # instagram_bot_maker
-jusa a instagram bot maker
+just a instagram bot maker
+# Created with
+selenium
+python
